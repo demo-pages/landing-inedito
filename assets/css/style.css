@@ -242,6 +242,7 @@ div[class*="col-"]:after,
   color: #464646;
   opacity: 0;
   transition: all 200ms linear;
+  display: none;
 }
 
 .carousel li a:hover .caption {
