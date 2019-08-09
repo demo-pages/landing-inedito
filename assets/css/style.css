@@ -500,6 +500,12 @@ div[class*="col-"]:after,
   .slick-arrow.prev {
     left: 0;
   }
+  .footer .heading-1 h2 {
+    font-size: 30px;
+  }
+  .footer .heading-1 h2:before {
+    bottom: 15px;
+  }
 }
 
 
